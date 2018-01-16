@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  min-height: 100%;
+  background: linear-gradient(-45deg, rgba(0,0,0,0.3), rgba(0,40,105, 0.8)), url('./Static/images/background.jpg');
+}
+
+.quiz-header {
+  width: 100%;
+  background-color: rgba(0,0,0,0.5);
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.quiz-header h2 {
+  font-size: 45px;
+  color: #fff;
+}
+
+.numerator {
+  color: #fff;
+}

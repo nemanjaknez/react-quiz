@@ -1,0 +1,12 @@
+.well {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgba(245,245,245, 0.75);
+  transition: background-color 1s, color 1s;
+}
+
+.well:hover {
+  color: #fff;
+  background-color: rgba(66, 165, 201, 0.55);
+  transition-timing-function: ease-out;
+}
